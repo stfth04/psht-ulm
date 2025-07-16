@@ -47,7 +47,7 @@ if ($query && mysqli_num_rows($query) > 0) {
 </nav>
 
 <!-- ISI PARAGRAF -->
-<section class="py-5 bg-light">
+<section class="py-5">
   <div class="container">
     <h2 class="mb-3">Profile UKM PSHT Komisariat</h2>
     <?php if ($data): ?>

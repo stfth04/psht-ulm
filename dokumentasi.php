@@ -17,7 +17,7 @@ $query = mysqli_query($koneksi, $sql);
 </head>
 <body>
 
-<!-- BREADCRUMB -->
+  <!-- BREADCRUMB -->
 <nav aria-label="breadcrumb" class="bg-light py-2">
   <div class="container">
     <ol class="breadcrumb mb-0">
@@ -28,7 +28,7 @@ $query = mysqli_query($koneksi, $sql);
 </nav>
 
 <!-- FOTO EVENT -->
-<section class="py-5 bg-light">
+<section class="py-5">
   <div class="container">
     <h2 class="mb-4 fw-bold">Dokumentasi Kegiatan UKM PSHT</h2>
     <div class="row g-4">

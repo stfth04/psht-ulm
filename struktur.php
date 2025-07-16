@@ -31,7 +31,6 @@ $data = mysqli_fetch_assoc($query);
 <section class="py-5">
   <div class="container">
     <h2 class="mb-4">Struktur Organisasi UKM PSHT</h2>
-    
     <?php if ($data): ?>
       <div class="text-center">
         <img src="admin/<?= htmlspecialchars($data['gambar']) ?>" class="img-fluid rounded shadow-sm" alt="Struktur Organisasi">
