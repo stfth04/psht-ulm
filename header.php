@@ -40,6 +40,8 @@
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="profile.php">Profil</a></li>
               <li><a class="dropdown-item" href="visi.php">Visi dan Misi</a></li>
+              <li><a class="dropdown-item" href="Produk_kami.php">Produk Kami</a></li>
+              <li><a class="dropdown-item" href="Kontak_kami.php">Kontak Kami</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
