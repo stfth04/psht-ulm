@@ -44,6 +44,17 @@
               <li><a class="dropdown-item" href="Kontak_kami.php">Kontak Kami</a></li>
             </ul>
           </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Artikel</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="konsep.php">Konsep Dasar PSHT</a></li>
+              <li><a class="dropdown-item" href="pembinaan.php">Latihan dan Pembinaan Anggota</a></li>
+              <li><a class="dropdown-item" href="sejarah.php">Sejarah dan Perkembangan PSHT</a></li>
+              <li><a class="dropdown-item" href="sistem.php">Struktur dan Sistem Organisasi PSHT</a></li>
+            </ul>
+          </li>
+  
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Informasi</a>
             <ul class="dropdown-menu">
