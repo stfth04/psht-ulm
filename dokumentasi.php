@@ -28,6 +28,7 @@ $query = mysqli_query($koneksi, $sql);
 </nav>
 
 <!-- FOTO EVENT -->
+<!-- FOTO EVENT -->
 <section class="py-5">
   <div class="container">
     <h2 class="mb-4 fw-bold">Dokumentasi Kegiatan UKM PSHT</h2>

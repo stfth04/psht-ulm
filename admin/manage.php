@@ -19,6 +19,7 @@ $data = mysqli_fetch_assoc($query);
 <div class="container mt-4">
 
     <?php if ($data): ?>
+        
         <h4>Profile</h4>
         <p><?= nl2br(htmlspecialchars($data['profil'])) ?></p>
 
